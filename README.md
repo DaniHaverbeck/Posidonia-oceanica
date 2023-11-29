@@ -1,2 +1,2 @@
 # Posidonia-oceanica
-Genetic information on P. oceanica meadows across the Mediterranean
+Genetic diversity information on P. oceanica meadows across the Mediterranean
